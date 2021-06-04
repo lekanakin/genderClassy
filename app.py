@@ -40,7 +40,7 @@ def main():
 
 	"""
 
-	st.title("Ultimate Gender Classifier")
+	st.title("Ultimate Gender Classifier App.")
 	html_temp = """
 	<div style="background-color:tomato;padding:10px">
 	<h2 style="color:white;text-align:center;">Classify the Gender associated to a name.</h2>
